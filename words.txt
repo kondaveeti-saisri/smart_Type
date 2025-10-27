@@ -1,0 +1,8 @@
+🔍 Simple Autocomplete System
+Type something and get suggestions. Type 'exit' to stop.
+
+Type: inte
+Suggestions: interview, internet, internal, interval, interesting, intelligence, integration, integer
+
+Type: inter
+Suggestions: interview, internet, internal, interval, interesting
